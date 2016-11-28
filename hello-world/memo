@@ -1,3 +1,4 @@
 npm start
 npm run build
 cp -r build/* ../
+git status で見て必要なファイルをadd
